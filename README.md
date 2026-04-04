@@ -1,6 +1,6 @@
 Explainable AI: Income Prediction and Bias Analysis
 
-This project uses the UCI Adult Census Income dataset to predict whether an individual earns more than $50K per year. Beyond just making predictions.
+This project uses the UCI Adult Census Income dataset to predict whether an individual earns more than $50K per year.
 
 The first option is to run it in Google Colab:
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaritRokx/Explainable-AI/blob/main/ExplainableAIFinal.ipynb)  
